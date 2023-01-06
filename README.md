@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hussiantabha
-- 👀 I’m interested in Webd dev
+- 👀 I’m interested in Web dev
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on projects in Web dev
 - 📫 Reach out to me via mail "tabhahusain@gmail.com"
